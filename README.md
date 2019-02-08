@@ -8,3 +8,5 @@ Controls :
 w,s to change rotation  
 a,d to move  
 Spacebar to shoot bubbles
+
+*Requires Unity to be installed.
